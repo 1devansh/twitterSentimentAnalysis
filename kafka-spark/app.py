@@ -1,1 +1,0 @@
-# Kafka -> Maven -> Spark -> AWS
